@@ -9,4 +9,9 @@ artist: artstation.com/teunvanderzalm
 ㅁㄴㅇㅁㄴㅇㅁㄴㅇㅁㄴㅇㅁㄴㅇㄴㅇㅁㄴ
 
 
-(https://github.com/chu9400/chu9400.github.io/tree/jekyll/img/how_git.png)
+
+[![Clean Blog (Jekyll) Preview](https://startbootstrap.com/assets/img/templates/clean-blog.jpg)](http://blackrockdigital.github.io/startbootstrap-clean-blog-jekyll/)
+
+
+
+[!](https://github.com/chu9400/chu9400.github.io/tree/jekyll/img/how_git.png)
