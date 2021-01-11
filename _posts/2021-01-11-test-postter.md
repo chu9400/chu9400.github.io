@@ -14,4 +14,4 @@ artist: artstation.com/teunvanderzalm
 
 
 
-[!](https://github.com/chu9400/chu9400.github.io/tree/jekyll/img/how_git.png)
+[![img-title](https://github.com/chu9400/chu9400.github.io/tree/jekyll/img/how_git.png)]
