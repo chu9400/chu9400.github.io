@@ -9,4 +9,4 @@ artist: artstation.com/teunvanderzalm
 ㅁㄴㅇㅁㄴㅇㅁㄴㅇㅁㄴㅇㅁㄴㅇㄴㅇㅁㄴ
 
 
-https://github.com/chu9400/chu9400.github.io/tree/jekyll/img/how_git.png
+(https://github.com/chu9400/chu9400.github.io/tree/jekyll/img/how_git.png)
